@@ -1,0 +1,70 @@
+#header_bar{
+    text-align: center;
+}
+
+#main_container{
+    margin-top: 1%;
+    background-color: #c7ddef;
+}
+
+#divForm{
+    text-align: left;
+}
+
+#formImg{
+    margin : 10px;
+}
+
+#divImage{
+    text-align: center;
+    background-color: #f7f7f7;
+    border : 1px solid lightslategray;
+}
+
+img{
+    max-width:100%;
+    max-height:100%
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #8064A2;
+    border-color: #8064A2;
+}
+
+#close_button{
+    position: absolute;
+    top: 4px;
+    right: 20px;
+    background-color: #e01111;
+    color:#fff;
+    font-style: bold;
+}
+
+.ui-widget-content.ui-resizable {
+    margin-bottom: 20px;
+    color: #fff;
+    min-width: 100px;
+    min-height: 40px;
+    max-width: 500px;
+    max-height: 200px;
+    background: transparent;
+    border-color: transparent;
+    position:absolute;
+}
+
+.ui-widget-content.ui-resizable a {
+    color: #fff;
+    font-weight: bold;
+    height: inherit;
+    width: inherit;
+    max-width: 500px;
+    max-height: 200px;
+    min-width: 100px;
+    min-height: 40px;
+}
+    
+    
